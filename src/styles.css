@@ -1,0 +1,304 @@
+
+#contacts{
+    margin-top:20px;
+    display:flex;
+    justify-content: space-between;
+}
+#number{
+    display:flex;
+}
+#phone-img{
+    margin-top: 5px;
+  margin-right: 4px;
+}
+#mail{
+    display:flex;
+    margin-right: 20px;
+}
+#mail-img{
+    margin-top: 5px;
+    margin-right: 4px;
+}
+html{
+    font-size: 18px;
+}
+body{
+    background-color: #FFF8F0;
+    font-family: sans-serif;
+
+font-weight: 400;
+line-height: 24px;
+color:#552060;
+padding-top:0;
+margin:0;
+
+}
+#hero-section{
+    display:flex;
+    max-width:1440px;
+    margin:0 auto;
+}
+#hero-text{
+    width:50%;
+    padding-left:80px;
+   
+    
+}
+#button{
+    height: 29px;
+width: 100px;
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+border-radius: nullpx;
+background-color: #000000;
+margin-top: 20px;
+}
+
+#hi{
+    height: 19px;
+width: 135px;
+padding-left: 0px;
+padding-top: 99px;
+border-radius: nullpx;
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+#e{
+   height: 8px;
+   width: 8px;
+   font-family: sans-serif;
+   padding-right:2px;
+}
+#email{
+    height: 14px;
+    width: 114px;
+    padding-left:420px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    border-radius: nullpx;
+    
+}
+#hero-img-wrap{
+    width:50%;
+  
+   
+}
+#hero-img{
+    width:100%;
+    height: 510px;
+  
+}
+h1{
+    font-family: League Spartan;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+   color: #190D37;
+   
+
+   
+    
+}
+h2{
+    font-family: League Spartan;
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: center;
+
+    color: #000000;
+
+}
+#bigtext{
+    font-family: sans-serif;
+font-weight: 200;
+text-align: justify;
+margin-right: 20px;
+
+}
+
+#over-title{
+   
+font-family: Poppins;
+font-size: 12px;
+font-weight: 600;
+line-height: 18px;
+text-align: center;
+color: #2858ff;;
+text-transform: uppercase;
+margin-bottom: 8px;
+}
+#tit{
+    font-family: League Spartan;
+font-size: 36px;
+font-weight: 700;
+text-align: center;
+margin: 0 auto;
+max-width: 700px;
+}
+
+#upper-text{
+    font-family: sans-serif;
+font-size: 12px;
+font-weight: 400;
+text-align: center;
+color: #2858ff;
+padding-bottom: 0px;
+margin-top: 50px;
+
+}
+#low-text{
+  max-width:650px;
+text-align:center;
+margin: 0 auto;
+font-family: sans-serif;
+font-weight: 400;
+size: 18px;
+margin-bottom: 30px;
+}
+#boxes{
+    display:flex;
+    margin-top:30px;
+  margin:0 auto;
+    max-width: 1330px;
+    
+}
+#b1{
+    border:2px solid white;
+    background-color: #FFFFFF;
+    margin:20px;
+    height: 330px;
+    border-radius: 7px;
+}
+#b2{
+    border:2px solid white;
+    background-color: #FFFFFF;
+    margin:20px; height: 330px;
+    border-radius: 7px;
+}
+#b3{
+    border:2px solid white;
+    background-color: #FFFFFF;
+    margin:20px; height: 330px;
+    border-radius: 7px;
+}
+#box-head{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+#box-content{
+    font-family: sans-serif;
+    color: background: #55206D;
+    
+    text-align: center;
+    padding: 20px;
+    text-align: justify;
+}
+#ditem{
+display:flex;
+}
+#s1{
+    color: #FFFFFF;
+    background-color: #19ACFF;
+
+    height: 150px;
+width: 190px;
+padding-top: 68px;
+border-radius: 10px;
+font-family: sans-serif;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 50px;
+margin-left: 90px;
+
+}
+#s2
+{
+    color: #FFFFFF;
+    background-color: #FFE819;
+    
+    height: 150px;
+width: 190px;
+padding-top: 68px;
+border-radius: 10px;
+font-family: sans-serif;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 50px;
+margin-left: 90px;
+}
+#s3{
+    color: #FFFFFF;
+    background-color: #FF1919;
+
+    height: 150px;
+width: 190px;
+padding-top: 68px;
+border-radius: 10px;
+font-family: sans-serif;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 50px;
+margin-left: 90px;
+}
+#p1{
+    margin-top:50px;
+}
+#ss1{
+    max-width:600px;
+    margin-left: 20px;
+    height: 90px;
+}
+a{
+    text-decoration: none;
+     color: #2858ff;
+}
+a:hover,a:focus{
+    color:coral;
+}
+#footer{
+    margin-top: 100px;
+background-color: #000000;
+color: #FFFFFF;
+font-family: sans-serif;
+font-size: 12px;
+font-weight: 500;
+text-align: center;
+padding-top: 20px;
+height: 50px;
+}
+#project{
+    margin-top:10px;
+    color: blue;
+    font-family: sans-serif;
+}
