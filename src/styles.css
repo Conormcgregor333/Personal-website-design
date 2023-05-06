@@ -112,7 +112,7 @@ h1{
     letter-spacing: 0em;
     text-align: left;
    color: #190D37;
-   
+   margin-top:10px;
 
    
     
@@ -148,6 +148,7 @@ text-transform: uppercase;
 margin-bottom: 8px;
 }
 #tit{
+    margin-bottom:40px;
     font-family: League Spartan;
 font-size: 36px;
 font-weight: 700;
@@ -163,6 +164,7 @@ font-weight: 400;
 text-align: center;
 color: #2858ff;
 padding-bottom: 0px;
+margin-bottom: 10px;
 margin-top: 50px;
 
 }
@@ -173,13 +175,14 @@ margin: 0 auto;
 font-family: sans-serif;
 font-weight: 400;
 size: 18px;
+margin-top:20px;
 margin-bottom: 30px;
 }
 #boxes{
     display:flex;
     margin-top:30px;
   margin:0 auto;
-    max-width: 1330px;
+    max-width: 1290px;
     
 }
 #b1{
